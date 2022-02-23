@@ -21,7 +21,6 @@
 - 📫 How to reach me: You can contact me at my email: blaiseappo@gmail.com
 
 
-
 ## 📘 My top projects so  far
 
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
