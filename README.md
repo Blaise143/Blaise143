@@ -21,23 +21,6 @@
 - 📫 How to reach me: You can contact me at my email: blaiseappo@gmail.com
 
 
-## 📘 My top projects so  far
-
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-    <a href="https://github.com/Blaise143/Breast-Cancer-Classification"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Blaise143&repo=Breast-Cancer-Classification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Life Expectancy Prediction"></a>
-    <a href="https://github.com/Blaise143/Life-Expectancy-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Blaise143&repo=Life-Expectancy-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Life Expectancy Prediction"></a>
-    <a href="https://github.com/Blaise143/Fuel-Efficiency-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Blaise143&repo=Fuel-Efficiency-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Fuel Efficiency Analysis"></a>
-    <a href="https://github.com/Blaise143/Fertility-Rate-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Blaise143&repo=Fertility-Rate-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Fuel Efficiency Analysis"></a>
-    <a href="https://github.com/Blaise143/card_default_prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Blaise143&repo=card_default_prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Credit Card Default Prediction"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Blaise143?tab=repositories&q=&type=public&language=&sort="><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
