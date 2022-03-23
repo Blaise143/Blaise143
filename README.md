@@ -63,6 +63,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </summary>
 </p>
-
+ 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="#"><img alt="Blaise Appolinary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Blaise143" /></a>
