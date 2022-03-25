@@ -65,4 +65,6 @@
 </p>
  
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="#"><img alt="Blaise Appolinary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Blaise143" /></a>
+<a href="#"><img alt = "Blause Appolinary's Activity Graph" src = "https://github-readme-streak-stats.herokuapp.com/?user=Blaise143&theme=dark" /></a>
+<!--a href="#"><img alt="Blaise Appolinary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Blaise143" /></a>
+
