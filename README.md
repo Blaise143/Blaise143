@@ -19,7 +19,7 @@
 - :mag: I am currently searching for internship opportunities in Data Science and Analytics.
 - 💬 Ask me about Machine Learning, soccer or my love for cooking!
 - 📫 How to reach me: You can contact me at my email: blaiseappo@gmail.com
-- Check out my Kaggle portfolio here: https://www.kaggle.com/blaiseappolinary/code 
+<!-- - Check out my Kaggle portfolio here: https://www.kaggle.com/blaiseappolinary/code -->
 
 
 ## 🛠️ My favorite tools
