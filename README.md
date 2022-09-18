@@ -38,7 +38,7 @@ me.hello()
 ## *Personal Projects*
 ### Computer Vision Projects
 - [Brain Tumor Detection (98% Accuracy)](https://github.com/Blaise143/Brain-Tumor-Classification)
-- [Face Mask Detection (93% Accuracy)](https://github.com/Blaise143/Face-Mask-Image-Classification)
+- [Face Mask Detection (92% Accuracy)](https://github.com/Blaise143/Face-Mask-Image-Classification)
 - [ResNet Implementation From Scratch in PyTorch](https://github.com/Blaise143/ResNet-Emplementation)
 
 ### Projects on tabular data
