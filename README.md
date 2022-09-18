@@ -45,7 +45,7 @@ me.hello()
 - [Heart Disease Classification](https://github.com/Blaise143/Heart-Disease-Classification)
 - [Breast Cancer Classification](https://github.com/Blaise143/Breast-Cancer-Classification)
 - [Fuel Efficiency Analysis](https://github.com/Blaise143/Fuel-Efficiency-Analysis)
-- [Life Expectancy Statistical Analysis](https://github.com/Blaise143/Life-Expectancy-Prediction/blob/main/life-expectancy-final-report-1.ipynb)
+- [Life Expectancy Statistical Analysis](https://github.com/Blaise143/Life-Expectancy-Prediction)
 
 <!-- ##🛠️ My favorite tools -->
 
