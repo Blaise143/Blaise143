@@ -5,26 +5,52 @@
 </h3>
  
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg --> 
-<p align="center">
+<!--p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mathematics%20And%20Statistics%20Student;Let's%20Talk%20Data%20Science;" ></a>
-</p>
+</p -->
+
+```python
+class DataScientist:
+
+      def __init__(self):
+           self.name = "Blaise Appolinary"
+           self.role = "Mathematics and Statistics Student"
+           self.skills = ["Machine Learning", "Deep Learning", "Statistical Analysis"]
+           
+      def hello(self):
+           return "Thank you for checking out my github"
+           
+me = DataScientist()
+me.hello()
+```
 
 
-
-### Get to know me better!
+<!-- ### Get to know me better!
 
 - :mortar_board: I'm a third year Mathematics and Statistics Student at the University of British Columbia in Vancouver, Canada.
 - :computer: I have extensive experience with Python,R,  Excel and SQL for data Science Analytics.
-- I obtained the Google Data Analytics Proffessional Certificate.
+- I obtained the Google Data Analytics Proffessional Certificate. -->
 <!-- :mag: I am currently searching for internship opportunities in Data Science and Analytics. -->
-- 💬 Ask me about Machine Learning, soccer or my love for cooking!
-- 📫 How to reach me: You can contact me at my email: blaiseappo@gmail.com
+<!-- 💬 Ask me about Machine Learning, soccer or my love for cooking!
+- 📫 How to reach me: You can contact me at my email: blaiseappo@gmail.com  -->
 <!-- - Check out my Kaggle portfolio here: https://www.kaggle.com/blaiseappolinary/code -->
 
+## *Personal Projects*
+### Computer Vision Projects
+- [Brain Tumor Detection (98% Accuracy)](https://github.com/Blaise143/Brain-Tumor-Classification)
+- [Face Mask Detection (93% Accuracy)](https://github.com/Blaise143/Face-Mask-Image-Classification)
+- [ResNet Implementation From Scratch in PyTorch](https://github.com/Blaise143/ResNet-Emplementation)
 
-## 🛠️ My favorite tools
+### Projects on tabular data
+- [Heart Disease Classification](https://github.com/Blaise143/Heart-Disease-Classification)
+- [Breast Cancer Classification](https://github.com/Blaise143/Breast-Cancer-Classification)
+- [Fuel Efficiency Analysis](https://github.com/Blaise143/Fuel-Efficiency-Analysis)
+- [Life Expectancy Statistical Analysis](https://github.com/Blaise143/Life-Expectancy-Prediction/blob/main/life-expectancy-final-report-1.ipynb)
 
-### 👨‍💻 Programming languages
+<!-- ##🛠️ My favorite tools -->
+
+
+## 👨‍💻 Programming languages
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
@@ -37,7 +63,7 @@
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+## 🧰 Frameworks and libraries
 <!--    <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-Python-%3Cgreen%3E"></a> -->
 <p>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
