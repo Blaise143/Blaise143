@@ -12,13 +12,13 @@
 ```python
 class DataScientist:
 
-      def __init__(self):
-           self.name = "Blaise Appolinary"
-           self.role = "Mathematics and Statistics Student"
-           self.skills = ["Machine Learning", "Deep Learning", "Statistical Analysis"]
+    def __init__(self):
+       self.name = "Blaise Appolinary"
+       self.role = "Mathematics and Statistics Student"
+       self.skills = ["Machine Learning", "Deep Learning", "Statistical Analysis"]
            
-      def hello(self):
-           return "Thank you for checking out my github"
+    def hello(self):
+       return "Thank you for checking out my github"
            
 me = DataScientist()
 me.hello()
