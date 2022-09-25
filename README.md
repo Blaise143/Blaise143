@@ -36,12 +36,12 @@ me.hello()
 <!-- - Check out my Kaggle portfolio here: https://www.kaggle.com/blaiseappolinary/code -->
 
 ## *Personal Projects*
-### Computer Vision Projects
+### ✨ Computer Vision Projects
 - [Brain Tumor Detection (98% Accuracy)](https://github.com/Blaise143/Brain-Tumor-Classification)
 - [Face Mask Detection (92% Accuracy)](https://github.com/Blaise143/Face-Mask-Image-Classification)
 - [ResNet Implementation From Scratch in PyTorch](https://github.com/Blaise143/ResNet-Emplementation)
 
-### Projects on tabular data
+### ✨ Projects on tabular data
 - [Heart Disease Classification](https://github.com/Blaise143/Heart-Disease-Classification)
 - [Breast Cancer Classification](https://github.com/Blaise143/Breast-Cancer-Classification)
 - [Fuel Efficiency Analysis](https://github.com/Blaise143/Fuel-Efficiency-Analysis)
@@ -68,7 +68,8 @@ me.hello()
 <p>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="SkLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)"></a>
+    <a href="#"><img alt="SkLearn" src="https://img.shields.io/badge/Scikit--Learn-%23FF6F00.svg?logo=scikit-learn&logoColor=white)"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23FF6F00.svg?logo=PyTorch&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"</a>
     <a href="#"><img alt="TidyModels" src="https://img.shields.io/badge/TidyModels-R-%3Cgreen%3E"></a>
