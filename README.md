@@ -11,7 +11,6 @@
 
 ```python
 class DataScientist:
-
     def __init__(self):
        self.name = "Blaise Appolinary"
        self.role = "Mathematics and Statistics Student"
