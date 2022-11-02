@@ -48,6 +48,8 @@ me.hello()
 
 <!-- ##🛠️ My favorite tools -->
 
+### ✨ Discrete Optimization Projects
+- [Knapsack Optimization](https://github.com/Blaise143/Knapsack-Optimization)
 
 ## 👨‍💻 Programming languages
 <p>
