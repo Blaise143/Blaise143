@@ -50,6 +50,7 @@ me.hello()
 
 ### ✨ Discrete Optimization Projects
 - [Knapsack Optimization](https://github.com/Blaise143/Knapsack-Optimization)
+- [Mathematical Optimization in Support Vector Machines](https://nbviewer.org/github/Blaise143/Mathematical-Programming-in-Support-Vector-Machines/blob/master/Main.ipynb)
 
 ## 👨‍💻 Programming languages
 <p>
