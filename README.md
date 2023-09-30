@@ -50,7 +50,7 @@ me.hello()
 
 ### ✨ Combinatorial Optimization Projects
 - [Genetic Algorithm (Scheduling Optimization)](https://nbviewer.org/github/Blaise143/Scheduling_Optimization--Genetic_Algorithm/blob/main/GeneticAlgorithm.ipynb)
-- [Knapsack Optimization](https://nbviewer.org/github/Blaise143/Knapsack-Optimization/blob/main/Knapsack.ipynb)
+- [Knapsack Optimization](https://nbviewer.org/github/Blaise143/Knapsack-Optimization/blob/main/src/Knapsack.ipynb)
 - [Image Style Transfer Approach Proposal](https://nbviewer.org/github/Blaise143/Image-Style-Transfer/blob/main/Image%20Style%20Transfer.ipynb)
 - [Mathematical Optimization in Support Vector Machines](https://nbviewer.org/github/Blaise143/Mathematical-Programming-in-Support-Vector-Machines/blob/master/Main.ipynb)
 
