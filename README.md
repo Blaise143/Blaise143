@@ -35,12 +35,19 @@ me.hello()
 <!-- - Check out my Kaggle portfolio here: https://www.kaggle.com/blaiseappolinary/code -->
 
 ## *Personal Projects*
-### ✨ Computer Vision Projects
+### ✨ Deep Learning Projects
 - [Brain Tumor Detection (98% Accuracy)](https://github.com/Blaise143/Brain-Tumor-Classification)
 - [Face Mask Detection (92% Accuracy)](https://github.com/Blaise143/Face-Mask-Image-Classification)
+- [Transformer Implementation](https://github.com/Blaise143/Transformer)
 - [ResNet Implementation From Scratch in PyTorch](https://github.com/Blaise143/ResNet-Emplementation)
 
-### ✨ Projects on tabular data
+### ✨ Combinatorial Optimization Projects
+- [Genetic Algorithm (Scheduling Optimization)](https://nbviewer.org/github/Blaise143/Scheduling_Optimization--Genetic_Algorithm/blob/main/GeneticAlgorithm.ipynb)
+- [Knapsack Optimization](https://nbviewer.org/github/Blaise143/Knapsack-Optimization/blob/main/src/Knapsack.ipynb)
+- [Image Style Transfer Approach Proposal](https://nbviewer.org/github/Blaise143/Image-Style-Transfer/blob/main/Image%20Style%20Transfer.ipynb)
+- [Mathematical Optimization in Support Vector Machines](https://nbviewer.org/github/Blaise143/Mathematical-Programming-in-Support-Vector-Machines/blob/master/Main.ipynb)
+
+### ✨ Machine Learning Projects on Tabular Data
 - [Heart Disease Classification](https://github.com/Blaise143/Heart-Disease-Classification)
 - [Breast Cancer Classification](https://github.com/Blaise143/Breast-Cancer-Classification)
 - [Fuel Efficiency Analysis](https://github.com/Blaise143/Fuel-Efficiency-Analysis)
@@ -48,11 +55,6 @@ me.hello()
 
 <!-- ##🛠️ My favorite tools -->
 
-### ✨ Combinatorial Optimization Projects
-- [Genetic Algorithm (Scheduling Optimization)](https://nbviewer.org/github/Blaise143/Scheduling_Optimization--Genetic_Algorithm/blob/main/GeneticAlgorithm.ipynb)
-- [Knapsack Optimization](https://nbviewer.org/github/Blaise143/Knapsack-Optimization/blob/main/src/Knapsack.ipynb)
-- [Image Style Transfer Approach Proposal](https://nbviewer.org/github/Blaise143/Image-Style-Transfer/blob/main/Image%20Style%20Transfer.ipynb)
-- [Mathematical Optimization in Support Vector Machines](https://nbviewer.org/github/Blaise143/Mathematical-Programming-in-Support-Vector-Machines/blob/master/Main.ipynb)
 
 ## 👨‍💻 Programming languages
 <p>
