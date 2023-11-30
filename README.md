@@ -13,7 +13,7 @@
 class DataScientist:
     def __init__(self):
        self.name = "Blaise Appolinary"
-       self.role = "Mathematics and Statistics Student"
+       self.role = "Mathematics Major"
        self.skills = ["Machine Learning", "Deep Learning", "Statistical Analysis"]
            
     def hello(self):
