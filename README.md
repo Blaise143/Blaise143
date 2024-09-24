@@ -19,7 +19,7 @@ class ResearchScientist():
     def hello(self):
        return "Thank you for checking out my github"
            
-me = DataScientist()
+me = ResearchScientist()
 me.hello()
 ```
 
