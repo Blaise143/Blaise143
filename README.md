@@ -10,10 +10,10 @@
 </p -->
 
 ```python
-class DataScientist:
+class ResearchScientist():
     def __init__(self):
        self.name = "Blaise Appolinary"
-       self.role = "Mathematics Major"
+       self.role = "Computer Vision PhD Student"
        self.skills = ["Machine Learning", "Deep Learning", "Statistical Analysis"]
            
     def hello(self):
