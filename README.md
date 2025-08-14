@@ -37,11 +37,10 @@ me.hello()
 ## *Personal Projects*
 ### ✨ Deep Learning Projects
 - [Vision Transformer PyTorch Implementation](https://github.com/Blaise143/VisionTransformer)
-- [Brain Tumor Detection (98% Accuracy)](https://github.com/Blaise143/Brain-Tumor-Classification)
 - [Face Mask Detection (92% Accuracy)](https://github.com/Blaise143/Face-Mask-Image-Classification)
 - [Transformer Implementation](https://github.com/Blaise143/Transformer)
 - [ResNet Implementation From Scratch in PyTorch](https://github.com/Blaise143/ResNet-Emplementation)
-
+<!--- [Brain Tumor Detection (98% Accuracy)](https://github.com/Blaise143/Brain-Tumor-Classification) -->
 ### ✨ Combinatorial Optimization Projects
 - [Genetic Algorithm (Scheduling Optimization)](https://nbviewer.org/github/Blaise143/Scheduling_Optimization--Genetic_Algorithm/blob/main/GeneticAlgorithm.ipynb)
 - [Knapsack Optimization](https://nbviewer.org/github/Blaise143/Knapsack-Optimization/blob/main/src/Knapsack.ipynb)
